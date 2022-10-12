@@ -1,0 +1,2264 @@
+[
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5ca642d0138f8fa36f4ec6311190825392246AdA",
+    "stakingReward": "317843874165509128085",
+    "feeReward": "156387153502486112",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x243981317e0651799101c2dc6fabec8d46a9532d4f989e96b9db3f4b2eb1c5453358f7fdb9c6dcd2ac2b265e938d977d169086784229134bd6ba2a8ba3fb9df21b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2c25f02fC21f16dba2e63ACF34e012aD76119fBC",
+    "stakingReward": "8704031937681904828406",
+    "feeReward": "4282601897873897606",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4834466d78730c37c17b4cf0068db5e9c14db51df0d1da1b29a5c477e968830b713222df31d810298949170dec77984052e36c781fdd33cc1aff469aa56593771b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xFc9dB8B7D39CC2E4C1C3ea94D22494C4891036a4",
+    "stakingReward": "22542689689227186077709",
+    "feeReward": "11091568406167636522",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x448b4954608bd002a5f771789b6633955a359a4cc0f70e8de864744e92e8a3260d86571fb0a3e5c4f2358e9b48d987798a200b1f5dc1b1c14211f8204f5dd8771c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x331b48044CbbD12e57E2ec279f6eE177A274A9ac",
+    "stakingReward": "17834010990198506165841",
+    "feeReward": "8774780453490482782",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x00e5f92e9067101f79f267f117510e09dd8c93a264375eab62924c73f5e19bf5302c144ec6199b5300ddfca2be7a2db05789f9a00dcd9b6dfe44443ad255cec01b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x1440BFD6DAC669c47f89c0933f7CA98788C3C517",
+    "stakingReward": "438007124323149837070",
+    "feeReward": "215510484720048433",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xbf1c19214adac6c2ee389db86b1919aff7dc12fd453201dbd39bd863f08bb93318ef7c00d3b7907da7196bd2855cac1579d07464f80380c85d2591041288e3871c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xe138dD111FCAeD4E7Cd281E52f3421252c0b86e7",
+    "stakingReward": "813071592028230403132",
+    "feeReward": "400051604596341659",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc09a4194ee38234f193d4133978b356ba7b04da52d0f45bcecfd2816cd51b52d1624dc391c9e4261d8929ba0c49d0b71ebeac490dd106d5dbc47eb91134503f01b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xfAa1eb1865f0E235d5Dc7b56139E794a3276311E",
+    "stakingReward": "63731789379910386219",
+    "feeReward": "31357637943823276",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x2383db10416407735488fd480664094dd6d3310ccf1abc3b1fb86ae79bdc1fd453724d01d7eb138470692e23f75156f9ea19274e51f7529fd5fb25587f9ad97f1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x994af457Aa710D4848c93a26a34463693762FB14",
+    "stakingReward": "463119606311435003761",
+    "feeReward": "227866455354503210",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf7496e7b26d88a57ee7b98f9e584c34c3daf78b1987198828b03866d484b66db0d7f7b6fbc6e7bd455cd9f52a3c49d5e7f02594830a0b8ad2220585613facc0d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x3306922eB5e9fF98BA88e88Bf2531ee26BC13FC6",
+    "stakingReward": "737418856431730804752",
+    "feeReward": "362828562290822741",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3aae63a7f60a470a38723b2b2868770105489586356c435391f997e3993195fc4a64203ae3122a5d146cd230c75af57473795f434bdd149decc8d43b3f7bae471c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x72727d612CD162c30f84B579662a9bDe34481aE7",
+    "stakingReward": "1229773654088838475120",
+    "feeReward": "605079464627838842",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x9f05a3036411c6f1492f909541d46d9cd10512c48e328f797aad1acca9061ef775caa5d357660ecd74f2b2c1efe21a0dd3362ad3c782b4f6182094ea1d84d8571b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x844B5Ba0750596B8cA77E31c549c7DF2827b515b",
+    "stakingReward": "861175195798192909972",
+    "feeReward": "423719783467325961",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x8d7a03d5356e08ffbc2686d67e3fa2193f01cd5d1b14fce800ed0c50e035f8a32a3a2ddba1983a03f5db4a64a73bb1ce75b7be0f1f1898153bfcc6bb2709d3881b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x67Eea7a2e81F7228C98Ea6ddb3BD4C4849A55554",
+    "stakingReward": "24379463629678795359383",
+    "feeReward": "11995307227401595815",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0b4ade06f4d1f3c113901b52fa9ef4e77fd5efd36fec67a473a110f32ae833346a126f407a50341eb831dd87b357aa4a1ffb90be9434db4f17dc993e5010e7a31c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xc2eb6539e4b351c08c268844cf1bCF44B1Ea7494",
+    "stakingReward": "679480208879925232170",
+    "feeReward": "334321295343489830",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x92e947cf49f116fe27dfb6171c5580d301643876271db0399389de46247d1a763a01f778c678e4d46bbdd942027de0644210361bed53b7b89d499476856cc2ac1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x946Ff1aE54F5677981852B14d3E3218f83591FF6",
+    "stakingReward": "29874829605123780525787",
+    "feeReward": "14699165040016669445",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x38eb1d5dfb44eaa01160b6ef9e3769c34989c3a97aa19708988dd412f826d5cf6dd9e2f3b3e0a438c85afb2cd73ec9c5c8af4379047a48857988a4b0db9f2a4d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x4D7c1Ca5C2CFaD3656F5ca46C00D65FE151B324d",
+    "stakingReward": "2238865436657455381577",
+    "feeReward": "1101577916620909522",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5a1f9df78b1c0d4c4a536ac41b5c1e58fce8d156e3f219555de7b72732eac13c1a6524eb9fcbd56328c9cf0020970b24c62d031b4886282280bafae6f583d4c01b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2fBD38f362559196DF511a704C138498D25f9343",
+    "stakingReward": "10533738284936698496991",
+    "feeReward": "5182863286091205513",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc0a708efd1e4af58652a682a4ac1df21214c2fc803d642c943578b0c3a75f60e2aad9d7ca5906c23e6a216bb862c016528f9ddc2773e675ee8264634206449e71b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xfb98fbcb48332aB8832E6F008C7fC5C59bcF8bF4",
+    "stakingReward": "1253349817718348159362",
+    "feeReward": "616679528118783911",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5c29a09d6c5d2846222c894f9bf66751411a68598480c8eae8010ba57016e7c8620229c92b22a91caee50d07babcfe219c5a5b70ecdb34100829f059c72898131b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x83898b09E8F6C0919D4899ad462a9bd78D0f8Ab4",
+    "stakingReward": "9764639163528294217862",
+    "feeReward": "4804447239300597829",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xe950fb58c369c275a3a080968a36adf8be158f7f5830f9d0a6ca4466d12900d84de5337b9afa1c759c57d9c27c0299c257a1195003412e4e17e6888042049b2d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x24Fee065d7bC3824741970e573ae06a590Bf9CFA",
+    "stakingReward": "103864374949268298115",
+    "feeReward": "51103876050078714",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x15f1a3278a8917375ff8ee7b080e2740a820760167baafe557e162b774a0003e3c28ebad36310216f657b14c35ba0e5d4562b49c08a8598bd280c0edf2f33d611c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x4Ccc4bd2aedB82d2B44B979c63002EDF9D3A896f",
+    "stakingReward": "822957636155302502890",
+    "feeReward": "404915786120971923",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xe67e4cb5122b9bb1447216825cf2ef739d8ab97de70d01f5657a32eac832c2bb7e8af17ac7d8ee45db9980acff0731ce09dcea57b059e4c47dd8de1f014448581b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x8e3C317Fe235c277FF04DcCC21dE012310Bde021",
+    "stakingReward": "834924751939796158150",
+    "feeReward": "410803907067412111",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x772f1510ccfe1c5edb76c474abd23c60c96207e18cf3e6d4040af9a5ef48cdf465334c24f85a79885bb5a2b2e55136c6f5d60201a4855f845ee3a4170ebb9d001c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xbfa3D9F901443Bec53912A0106FB6FaAc6F501f5",
+    "stakingReward": "1073687047750501737473",
+    "feeReward": "528280941676269442",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xe331faffc0dd8f279c5aed1e5a48cd6ae61fd0217a955d93a315ea74f8e180fb7cdb04f71bc87993c580d4750b3e1c1d0ef68fe8001695f7e7b01ca0fd000e951b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xe193D4C06fdC1e5feE42EF1BeFF0fc9262fdfF4f",
+    "stakingReward": "921629218123337466836",
+    "feeReward": "453464677856204611",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfbcc6fe7162c3fbd56777482e309f21f94e71bfebb5b37493f2b69d950b788d8075cf0563bb2b36314cced134f01ed85ee4fa1c1b35bc55c4bce7188c16042091c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x140F1787D42Cc32632f7F1CBee0B730e7B098147",
+    "stakingReward": "3683914938490846532",
+    "feeReward": "1812578494672738",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc2e3811ac0b3e4a2fd0e4c5f953cf9991ffd12db6e167007785f4c8b06a3962f00bdfc78717b594c92da3d47737b655b2b111f3adbda5681cb3effbed1c7790f1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xA70F6c136EAB83cAaF10c49Bfa933B7cC11e13e4",
+    "stakingReward": "187075610800557908419",
+    "feeReward": "92045889950371557",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x288979ff9c3df9f09a6edf92ac85d019dace06bbc696cef8d4825a1c7d44ae092cf9c5b9c591e621003f2627710b3fc1a54125b0ccc54681f407d36ca5d558b81c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5c192d9Bc2753e68aF1dd69f07627E2cdFE725B9",
+    "stakingReward": "15496005078946792744",
+    "feeReward": "7624422938208476",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x10999bcb8aea5843bbcb675cd052261cb0883e7258850f65ddc87cfdbbaa852a09d09525f6ea5989d13da2024246de0f46713ff3f44c12f714531ec20bf835951b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xF0Fa378a6F56f46DFc2fe4B74aDd45383e7cd9E9",
+    "stakingReward": "13133315610720790388",
+    "feeReward": "6461920494150793",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x8c7b6a18043480dc9fae216e65a25dc80ba540e8f7dd11de39ee436ebe94b728017a934a5c507b3ff609eb9ba01ca8ab11d0bca9b8e8438e0a27364f1bedffe11c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x3963a2cB6759f3F2827f46CE52A7398aea8e2977",
+    "stakingReward": "3191444801494701415153",
+    "feeReward": "1570270842489696786",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x49f7f5d1aa1ac7dc43945a4e63dd587b32fbe79a50b2b72cd0dbaa6f438aecc53356590909b5b6190c416023d8dfee2053fa8e7e3015e5c7c56286f6619963901c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xFC60750C91fD4090151ed42c5E88FF94e25E3f40",
+    "stakingReward": "7144005354322630322130",
+    "feeReward": "3515029713573357631",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3ad2c304fd8cb8d26b1e766fcaad469046b5b58d460198624678d2461c4bc4dc54012de4681ea50440baa1f70251a450494ad46567b320846623d88bfa29827d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xe60F86c2CdDBc468d1B0edb7bF8985961963F273",
+    "stakingReward": "2037309524261818928021",
+    "feeReward": "1002407355307097923",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4ebcb791c97d609d84b68ebd813e57bd352ee4920ac5a86048d6d3bbf64ff34d259b2036934c6acfc3c079c4ec96592c3120fc6e2c247497e3e5de5d333058d01c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x4624f1Abeef5B2fDba5A3451c0f01E09bfCB9EB6",
+    "stakingReward": "45279051533400174220",
+    "feeReward": "22278428367361105",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x80fa305f12e4a7ec8d2953d7e04dcabfa1c9a15bb6966237af92baba8b57b54360249d00ff9706223236374533e16de086f974a257527d7cc1051736d587110e1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xa7aF94d504531c075d4a3e29D44E6085e4FEdfc7",
+    "stakingReward": "2412672943582562882413",
+    "feeReward": "1187095566872137119",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xbb39305fb7ed1850cda04208b436523758950fa3a88be567e163ffc68edb4cc46035c9e3e188ee2809314918837cb6df7a46d2c345dd40b31914e4507b9cdabb1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x015E6FbcE5119c32db66E7c544365749bb26cf8b",
+    "stakingReward": "3173852953680518182216",
+    "feeReward": "1561615212389125893",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf580075ffdb3c454f856b82e4e0b28793b32a5e05e53270d8f86a7c7c8507a7f0da43992d9537472e4335477b6d53217ae6e8b43f001cc4fb8253aa4bf2cddda1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x43943277308faD2c53D89f294443854bc2EDFd52",
+    "stakingReward": "11336701102829316707",
+    "feeReward": "5577941120415527",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf622493cad39251897b90af31623d8747fabd2923584b4aa533903cb30107c947f5f020b8271eb704bc3a6a6698139b24cee4b372994987a54d9ebf582adb6881c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xaDB19e68088094982d8fc31169dE756360ef3C64",
+    "stakingReward": "668925806277837098005",
+    "feeReward": "329128264695366336",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa5cac77c19239513e9db79a0bf7d193cdb7aeb48ecada69f42a74227216593fa1cf2c13befe2287db8a873f92e8c0c3c8217010310280643f98c172c1cfa801f1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7c8c0b08f739d86aA21EabE9c740Bc9A855cd58D",
+    "stakingReward": "307072186888399755178",
+    "feeReward": "151087213347563095",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0122a4f938f3ad4d05143a2870194bc5cb201fe9c08bda41ac2b574a3b84b0e80160bd554a78f6fe36f6ef5174c4c0258b7be70ef82919ec6db5f2fbfae680c51b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xBe04e33c79759449d918c5ff30Ff10F309E7BE03",
+    "stakingReward": "861078969761805076967",
+    "feeReward": "423672437845318837",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x850392cf4e50116216583924ed978afbb635f334ad34302fe5a4cd02305d424b2a69af1b3798dc91db2d4ed8fdd2ad6dbcc2c25d10b81fbb8046a0ab015c6dff1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x791d1542e6B7a7A51241c0521dcb06cbf9b26263",
+    "stakingReward": "304394627273013805881",
+    "feeReward": "149769786898232271",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0ae8135849022a3aa28a20e39b12a3aef437a82c35d6162ad9a9970cb507f91a5f7e1807fe6f6f835c64f3242a22525b7fea3fad6bc381a852e766a7f03066a61b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7aA9Fc5cCB0feBDcBc832f8B26E9b7351d29a853",
+    "stakingReward": "178898438042502010926",
+    "feeReward": "88022515975686960",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4d83433014b7ecd0560cae4de695422a8c26bf7b7a23f47e8dd3eb2e1e5d8a2a19040008dc66da6071e4fcd8489e9b815cd76f9adcab2caf563721ca2e7c28e31b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xcA59B2035A32DD673eD1BbddD0908341DE171663",
+    "stakingReward": "65289716634142107043",
+    "feeReward": "32124177205569039",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x8d033a726e6724f9f40dec6419a46ec12b482a481ecc05c07aff3c6698b2c4d80670c6ebc67bffc57adde86f5e0d60dc2704222fb0eae15507fb8928d994e02e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x9c4d592042F959254485d443bBc337d29572264F",
+    "stakingReward": "69660679385150471076",
+    "feeReward": "34274800446272575",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x17a40107bb73442e4a0405b341b807f3897ff51a83f1347356b34f9563b307d63d9e3fd9e60290890e31fc58a3223cb3826a184c082237fad3c333d7ab47951b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xad8054D4922c24523f02B2cd04798cff88fbFA33",
+    "stakingReward": "1479675417742730181983",
+    "feeReward": "728037396649308310",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x70aa0c3e1cfeb2688c6104dea6267e5bd907494b90f0e3753e2f8f2e08547d7b589b2bee6ddd10058c569ff5addca86ee8d7cad3e00867a6b7c52b570ddc59681b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC610fb0F2A4beff8Ab603A385B3209e13f999D54",
+    "stakingReward": "753172534573928125457",
+    "feeReward": "370579766835257904",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xcd97ab3320c1ff7d1918458cd4dd35700cafee73e0356cded8fc9a3485211a2c06d692264ba6343720ce66edeee7adb6baa194774567850dafaca623927594da1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x974D19f69485537a851e7fa2b33CfaF9D3C0A232",
+    "stakingReward": "93549123570428450266",
+    "feeReward": "46028513798612637",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x6078c9ee6b1e239deceed60cbcd90709460a4e1b88617096ef5ba667d49e553419fd94e3601708c5d3ee61d7f43b07677443c7b70819a961bd6c7bfba804aa7d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x180a04F9723cFF149Be382E8Ef1363ec623308A9",
+    "stakingReward": "1117153293433371618080",
+    "feeReward": "549667424123447543",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfee6019363857ca314d9e003550ac72ade6c63039d57960b9542d5b1d35a3dea0192d844e4c9078be9646ac682c9024646804dfcc53eeec61d060220ab5bbec71c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x8F53007C39E97d1C0c347Dc583D1F9F7aDe2bE96",
+    "stakingReward": "270383243076504392784",
+    "feeReward": "133035333307971025",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x71e1f450c00b1cd6e07c661e5e3513eeffa5f284fbb5b40c0415154b9d78052b2d03726831772aabf71ebb573b68895a6a72cc9429d4d8514898b5f964f9701f1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x854e117f04C0CD0c324Da5D4A70C9c661EB0754F",
+    "stakingReward": "166818984224504184815",
+    "feeReward": "82079121900777931",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc0ab5206df3a4e9382c8916b7d840c665ab69c2ecbf01ce1f081df0700bd0ade00f83819b9d3ff0a301a7a2d8c4e02fe3fa45f5e9c1ec0158fcc5b98ce98045e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDB85a59811d57107cd4d06A2C26ADc07cBe3a41A",
+    "stakingReward": "1910101999294889972060",
+    "feeReward": "939818064304071216",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x980f33b2c8be5e273874c0b1ba082ec870347e58bcc387ad3a92647654e319f60b3574934022af60f7272c35b4a1f84920834cc6e66401026d30fcdb9712375b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC63DABBc9005054E6Fa5a05b16759f7D00b5feBA",
+    "stakingReward": "23449656088955838827",
+    "feeReward": "11537818609819834",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3269fa0df0240c21e2da95580ce2389f140cfb7d15dd3e7ff036448d45a56a862839cc7b2d8ed47b36caa443c60384e7312d5b0fd62ec034d04bfe98de9cbac81b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2dabb00F401D0C9C12e6367f0b22290c5B84b205",
+    "stakingReward": "4137196046903611746608",
+    "feeReward": "2035604162438829302",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x045793149b828805d5618790fe1e5ff80b00d4913c4af472e95c7ed1721e136a053b144c21d44fbace1f16fa1f4551770e760c6b408ca529eb494ac57ef644cb1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x165D52D9cFb0DCA313a1ff7e08a7238561260333",
+    "stakingReward": "37510371243653068536",
+    "feeReward": "18456042926791691",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfdc6207dd48a8122487301a5ce97a19249a43bf382cc978ffbfaa2e4a7fc18195c391c48d7bf346fdf57c3a57a762b189d47fef7eb9a09d63cb73d8bcfa804aa1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xD6a19B9C8Ae7CC06687Df5C3b8b024D1b52E7FD1",
+    "stakingReward": "879226823289484183600",
+    "feeReward": "432601636694361064",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xd0d60548c622ff7d2737f5652eaf762e8f284c8caec0c24a43fc116184993e0c1992322299a7228538427518878929d389a944b55d3117232b9e1dea1a46699a1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xE6C7Ed38E3D5D18B911f79EE4E547420775f14ea",
+    "stakingReward": "588414731327484309",
+    "feeReward": "289514797643443",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x397bcece2889d5b4ace747e6055d11288ac93820fd356b4e2deb10d1e08e381809de5952c7989fce3ab53494170ff192f475b24bfa50fd79fc69e5d31ca77b2e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC73fd8A867c95E62dd75Be1E9D68226fB6797A48",
+    "stakingReward": "5352386781123354022974",
+    "feeReward": "2633508464940072472",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x2efc7ae44e22638b45ec1bcf9d47c9a333d437d6324d205b0b5091cded599f4d2501c689e2dbe4bbd845f99ae816a80a06ab8ce10a03cafc3f2a6afd68b2f4f91c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xFFe6dCc9252d858Ff398222a3206261aa7E894ed",
+    "stakingReward": "2656605131674782481920",
+    "feeReward": "1307116318077525245",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0aff059b8fa7675bc62d036bdceb1a6de327eba76dc25d5325f5eeaf42b36ea07d35415a17591abb594726a316c5aef3793b455b6c26bb03798747e3128c77371c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDC1D6FEBeD74398CC87C11E88Cd77D91E8Eca2A1",
+    "stakingReward": "1984365319267259550026",
+    "feeReward": "976357479293946393",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5b2b4e75b9aeb7a0a28c156468f064f0eda1918a50c055d23454e3859e9ce4427af26596ee597afd445fcaabfe935b7b8ff84c391f2e5805d6516feb37d194691c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xb3152B03E27a1be38963317838a84a6C9E06bb4D",
+    "stakingReward": "742839224553511013328",
+    "feeReward": "365495519279458671",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x06a8e9ebaa28642f6e06286ea83ee63978e2df6a23fd32523804d41b16d4d3f61e0883c5188566e2be2038459e989444a76ebc063d260ff44dc17de873c22e641c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xa54af364934DFd607A14a6088874fD2dA149177a",
+    "stakingReward": "49569717413855293262",
+    "feeReward": "24389543534945570",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x368c9347e74207966d8ec784cae4248f4d576a7dc7edaccaa4bc4a770caaf54904d07bad72deb49f21684692d737b5675b94f6c93af90d86f31098a257e0ee891c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x27823058e40Bb0F988daa6553D9E70F45730219b",
+    "stakingReward": "27506253275227437860",
+    "feeReward": "13533766112450834",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0d9df1844cc65c0feebae72f97ec51454f009501aa858ab23c7aa2d83133f4161ef832fb2cfc2e639d5ec731a9b3eb5e0fcef686c72cc43979a67f54dbd04da71b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x185F628ffA3c5Fe577f10e218AF1A14ACe20a1cC",
+    "stakingReward": "1737914454674663070571",
+    "feeReward": "855097476114545277",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x85f1200b046069465fa92bec144077aef00376541f5229bb02d50bcf93ac55dc0cca34da3b5d3089517cac5e8c836bfc751ea9930caca985c7880e2a5def06221c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xbf4948Ef7a394147614A4c969C16EF34D9946788",
+    "stakingReward": "3757754283009905763474",
+    "feeReward": "1848909303111764258",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfcff4f602d03cecfcdfa12c90d12856039eda0fba7e03838b536bd8a1d331e953a0078ee22c467665e3a22176586b8cd9863c0a5b66bf98a10abe9886079e8401c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5873207404c35bf82c9f4830dd008d24EAD64364",
+    "stakingReward": "441431951944856431903",
+    "feeReward": "217195585760304707",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x47f6c9472cf9b63d2c4dfe8df488566ea6e910c217b730313cb8f298835cd67462926a2a72c25c20a00dabc913aea180ac6e9aebcfb7164fe02cc136207d06211b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x40c47142f3B312a81feB963c66d16A69022C8Ec6",
+    "stakingReward": "408732329627386084743",
+    "feeReward": "201106551896550977",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf34f6f6a401e29a19800cb76c517e1bef5932c620c6838e298b200f8c746e8d164dcb1c1e103f80ffa2bed280946c483c38dd1c86b2a3e246e36082a0592825a1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xb3F7D9A75B7779E6d3Cb459f0e492ED2c6027Bb1",
+    "stakingReward": "2363941254291578434060",
+    "feeReward": "1163118354180549438",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4ec95f5d73e67858edf73a69710124a78acd66482cd12b8044b945165ced4b1e0b39d6fc1a7dd41320420bc09a2e2820d133a7c1205f80aefa345ecaf07d40101b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5Fb777Cf08AC376AD3Ccc7b31Ac8b15089536db7",
+    "stakingReward": "876112809957750254814",
+    "feeReward": "431069464075973354",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x7874eadf461115ca8a976a54255c786faf46bc1c96937147a45c8b413adde26618aa0ee01b42bc78cbb6611b41d7667de71da0729291c5fc99f0390d3e09d0f31b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5CaF01397F99C2b817ebC95Ea9b7371fD2752188",
+    "stakingReward": "12678426525672112478",
+    "feeReward": "6238103661572578",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x6f45999618318cfa7eda01eab46382638def50c9b6ecd06dfc0516664acd475a3d595cc8e9df5ec9253fb110c95652aeb9f19373073726e7c93863ccabe43e691c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x649bd13C3edA24fCbF036471543E5e492e631d51",
+    "stakingReward": "1551073678354441175901",
+    "feeReward": "763167130615110223",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc105641a3717b5da1a9c56bc570af877b95c370834451ab5843cde89cd9eddee411457b41b369217a22fd3539e2291ff4e7a2f19fd06d7d1092f59901683df931c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x01B22CE62B44D849c805E5ff729C7962085401fb",
+    "stakingReward": "2829939236287320963881",
+    "feeReward": "1392401042524162342",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x994b71d2329b315f3153a75689a14fe3977dbb87edd0762f2f572c5359584ee10faf2c8eada8fa2a90067e16f2fc610c405acad935f4486082296d4c8a5bf7611b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x33a9ba1028CCd8D3D7f5312Cd9Bd1f86D54a42Ec",
+    "stakingReward": "608882029718177613054",
+    "feeReward": "299585221506763614",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x89d315f7a4feeb28a67cb5c592c5f43389820bb033d745bc9f36ae75562ebf6e7cc91316062b02b5cf252592da6197b37f67efe948d91ff7bfeadc4cd2b8b9da1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x279bF65ead988d5354007E21D6578720f094491A",
+    "stakingReward": "9920583049710473612674",
+    "feeReward": "4881175540357762385",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xcbce520729418926fcb43879e2930c8f490dfe17e3962b5e6e3439ac9444716218754962af789b764392918efb90cc5b879292951827847be036dab66d2bd0511c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x959B05eA2f313c62895bB6642882AeFab55D3716",
+    "stakingReward": "691256546977662244140",
+    "feeReward": "340115548885809074",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x84b1c39991278b048ef8755c798289840796f41f59335b7021ad5adc58aa82ab68032611b0116bf718cc1ecdac51dcd42f8a91570bedb9df5042efbddf17ad701c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5Fd8Cb6612F5e7fb85E8A6f3914eaeC7616f921f",
+    "stakingReward": "154243995173964368634",
+    "feeReward": "75891912069844355",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa20a5aa99c2249a427f74615de5ea96a725db31d3aa0be6d5d6d053ba58516c272a9d1a4b7542f41223611a81f5fcbbeb691a6af940a8791b36fb35f8460c69d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xf8992A1f4e302460Bd49a1646Ee315D810235212",
+    "stakingReward": "84050771621165924782",
+    "feeReward": "41355086543769708",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb569e7ccc56084de7b2683220644d38429e09563e3d93925741060e8f84d6a691e8f7492f195d283b0deaec6f621d5d0256329d5fd9f49e7c1e937344e0c3ffa1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xfd085204a563b5BaF5CbE9bD85687E9f3231412e",
+    "stakingReward": "51431566451063760588",
+    "feeReward": "25305619932342984",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x87456e4f260dabd6d8482703e7bd4a18c2096118a5d0835cbe62a12244d4ead7623d955c767a118727066e12bd0ddaf7d35fb6b5ce3910a5f31632bea42b5d4b1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x6858A4D8d7D0297C138b403B6A34cb3b424B7f4a",
+    "stakingReward": "1763515527527345711184",
+    "feeReward": "867693845701822571",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x85c1aa6102b4488459eeea679dfa3052052ee5e6a13c8df9038c37fb7166ac737fc22aaeae95995c5d432c02cfb4e62e047f09d25ea918452b6f2d4d9b8bd39c1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC3408D78241E508df1719DD455D5fC8B624A770A",
+    "stakingReward": "12084238133647637661",
+    "feeReward": "5945748078137487",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb8c8ed8a6009ca8128f775008fc875e00b3425eab8630da531079ff41bfc2975097a67cd15b4e8c3a2d7aa09c3129a0540fc6fef9539c4a1ba65c5ddb073cdd51c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xeb37680652A9c7E7663363a25e716ADf133F629e",
+    "stakingReward": "16758052803042230089",
+    "feeReward": "8245382054295773",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5971ca91684c66f26f16238b5542310b5f1188f3972b776398e912f7a1ceebae27b300bfbace845c92fa89f5878cfa615390c10681551dd083eb048ba72d019f1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x4965923D031F82dDa9Cd9e3498F6Fe887Db80A7E",
+    "stakingReward": "972647020172438877205",
+    "feeReward": "478566715330922958",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xeb885b29a82c33db7cf86160ef13f0e6c679f7c2314d6476f275d3e8acb222a45ab9dbbd41d6c501650cc40412383a6b70d4c85a0fa6cf04efafcf161f569eb41c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDcdd7B2Dd766a189907729BF9033220a60730584",
+    "stakingReward": "203209575787216989953",
+    "feeReward": "99984205154956958",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xab4af6afdfa0dc2142f1f76a68bce1ba6ecddef201508cb879f4b534380023f65f4bd73693d2138bbb5f86cb8c0c4b63c78473fde9a9bc499cb4715f02bce3c31b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xE9cbcFD64802a92edbede44EcB1b2E9F0f211De8",
+    "stakingReward": "2617998964150965926316",
+    "feeReward": "1288121115912496529",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc0d8647d0df850342c4274ab5c61d72eb48542a1e366ecb9f6e11c17deee3e2432dfb11a950701ac7c19112e111d8f22c0353392caec7001783d2e48e2aaaaae1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x1f0523e84914218598059c8172e10c7b1D4d9d33",
+    "stakingReward": "58080824362345051153",
+    "feeReward": "28577221502073686",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfce564e7a9b07c1328ded5836007d999d36ca62dbbe775b28d59791dee3976d011a1d42012f0a265ed8d971321384c591269c80697dd319739eb3bc6e6c951ce1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xCB86Efa1897911DBCD20ad5899BB33E72f6c53aA",
+    "stakingReward": "11604007368827911391",
+    "feeReward": "5709462503870382",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x109531730e773309943374b5dc923cba6be247cfdd22d4a53b75b48cb32a39915919dede6d29874a56594aa195eb3b64f1bd80fa3d825d0bf04b2b5936c9e7341c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7730B574F4Bf1a9336f6dc876b56a432ede70F69",
+    "stakingReward": "215129641134471815539",
+    "feeReward": "105849176106859273",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4a4b2550df2cce8e21348c7d7ec8cac7b93ba76241a597414660cb0153440a77488984a97ac788145fafd224c12c03a38cc3d41aa23310b5a48f96526f2a91de1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7bc0CEAfffC2F2322F07c3058FfBcC2fA7C2Af7d",
+    "stakingReward": "108049587112571829323",
+    "feeReward": "53163105345409415",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x37c03a23e7e2bdb7face420bedb5ecda97da0573bfeac6886d573447045a62b85e7242bf12e0e1143fdfdc4eb34a3d309ad7f98fd7fe5f863202de66e7de15a91c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xF983B129e95f67A2569942E5B0889f688Cd73aa8",
+    "stakingReward": "9959843595849842434",
+    "feeReward": "4900492713204994",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa2d3b9044d519346f19276cc253151e8e66d2c9e53444545865c9c9bee0353814466450e1c5977087a0c7b5c855c3fedb10619fd549cc5e2eb1095b26c1af5161b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x49cBB777DE56B32F759e1648c2e0Fdd44e7Dd672",
+    "stakingReward": "21184879997524898197",
+    "feeReward": "10423492001546302",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc5983eef9425c6909fe3d895bd53704ee06dedffcb028c9d904c580e71ee40e6249a8ffbe873153004a6f4a200010e6bb83ae2344a65aebd83d2dbdd0d2530291b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xE672b7196411E270A83BC66BC7597A1342bdfA73",
+    "stakingReward": "16457433019305264094",
+    "feeReward": "8097469585041524",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x7f45a845f04aa6818c09f7d6f29d7b398233edd6be4e130443f0c8e8e17df96718a0003fef083c4ecd355ed4ffabd361843f0dc1a79e1acb9702e773387a7cca1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xB250d612e399aaf20E1348D08580223D73Ec5c27",
+    "stakingReward": "1369285135464398535682",
+    "feeReward": "673722610607987185",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x736874e6c9139d8465ae571409ac362568c4f8b45ca94e9d761c71b2f119b8682345fecc8e3deea2cf048c834989378dc807cda191143758a8c05275a204a36f1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x213f9C14a1769C1eB2eC786D7B89a5dFd76Aca9E",
+    "stakingReward": "38282918271136192389",
+    "feeReward": "18836155429799947",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf3e27d715f88e0e858afa1af43a747f96f217361f3cb98630ad4a1725a3b2dad15717e619fad47e976c64cba3fda8faaa0dafd9dda19b68b7d8af719300461e01c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC372De81164ec4Fb04dDF3750cDd3e202d33722D",
+    "stakingReward": "927809581877477466472",
+    "feeReward": "456505571746821479",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc5b8f894f40d702ba850a75025986251d41b73a2f5ed1bf500533908eaa57e4347fada7edbda1d9ac2b05e14bb00ebe021ebb8ec415baa79566b671b8af4920f1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x4BBd1312f257c49B3b1490430823bBdD8060306c",
+    "stakingReward": "55411978543589337237",
+    "feeReward": "27264082459114244",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x011ebf8fbfc8971f4a2811ea0f85a9ab9ad83129da729c795900e2cc2746616b5625fbaf4ee8134fed1d4400190e303631bcb13c17e5ebb25f0d629c652b19fa1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x22f3c2C18B2292F22C102f1dA74490298c7039C1",
+    "stakingReward": "2274138212093685672688",
+    "feeReward": "1118933006320489644",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf1f1470bb4e736e1f2431d6051c4ab49a36d835ac34f1348ca7651426ca030b93ebdd0a944d878a0f4a6acedaf23e6dcf5a8299055a87ba0afde5648aa47a6d11c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xEd4Dd739Fe78Fc2Eba9447A11501488B17BA7836",
+    "stakingReward": "2131550123961936452251",
+    "feeReward": "1048776092694794678",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x69db2572ee86a4a5f45b64a2c2c0cb4267e879f7c5a6acdd3e68623d9460dc174a4aadb445ea68e3a7c9d1964c85e568bd69759f038b736aa25ed64e97d7b54b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xfFda8e1961d9e55eCe7Dde23deb06Ef7A5b53e4c",
+    "stakingReward": "372686799064019023531",
+    "feeReward": "183371247303716557",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x96a3023a19b09dcf4e880c7730de7a685eb8860ca41357c730754074563386a86251d47881ffb0c85fb7447ab297d552d6104f95dcd0c3fc0a635b2f6c09be1b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x0a2d3Dd46E44AcEC0DA085268502880bB384bCC0",
+    "stakingReward": "399811629932852386469",
+    "feeReward": "196717344031081251",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x6b9b6f8118d2e052cd4d465063c574c7a817fc9ed25eefa025290d6158a917d77edfcca429acdb306f7c4b1921a3a7551c188aa08a9271cf539fa33613617d6c1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x9353420C675067986d537FBff7Cd94438e0B5A90",
+    "stakingReward": "3374465070445692481",
+    "feeReward": "1660321402594563",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa7c9b98024082000b19777132f7ec16a196d80f34176affe5f68e6ed798b44055a4ec0808414c4c81cf20f6a790dd9c2d9eda5e59aaaefa49c2d6fed183f1b581b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x1bEf9dD5FF14BA458148451161b818E1953a1d95",
+    "stakingReward": "168423821366028079248",
+    "feeReward": "82868742002964638",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x8a6125559a8846426711968c670cfa5627fb7665453354de2bd1f7e58399c40c42c0b5138e18f7be906e90d5830559aecc32a6060697503764e0f6ca5cb2f2cd1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xda1d9534BeF3344Fa5be3B644b767b349e7415C7",
+    "stakingReward": "83871543396080428411",
+    "feeReward": "41266901764302074",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa1a58a3a9f834d5cd369c1d6ff9ade160027ed1aee64eee48c41fb246f63a2f959855284e1bd3b546127c847a5baf076609a8401da615e6f0de7f1fc299058f31b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xF3163764da022FBA82943a6F189d4F812E3Af1E5",
+    "stakingReward": "356920064235119018",
+    "feeReward": "175613618542130",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xffa87158a61f10e6adf0fb5b37b33e0813d20f6a29938c74912825f58efad58920163931ac7e5d53bbfa79e4d1df6af9a82d467b532ae43ae1518d58a680a9b61b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2CE5871BD88E84498AEDD4377205d27201ea51b1",
+    "stakingReward": "327258154532990520542",
+    "feeReward": "161019215431664918",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x802c4682a084042f484abaffa0563f08d5ee965f207559eb9918f632ba8b10f37a2efa13ade0da7d244328518773220269fade03e3f19978ef5df980445609fa1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7baf9864ecb3cEc21523508C86a1a3EFcE2408be",
+    "stakingReward": "268339103462826707446",
+    "feeReward": "132029565377461025",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4cb460c3be8cd3b07ae56340f34a5452f0e5927e8bc911a22699b5a7e3d293d4270c57984be5becd827f83dab34f0e35823be80510f7ce15e67bd49b38c7ff561b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x3858F4611fd6CBF6e183289a16E1E62C979d18Dd",
+    "stakingReward": "161360917847873632965",
+    "feeReward": "79393616425771026",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5ce5a262903547f768cb48ad0ff20d0c17eec6cc8d0057d63a32712db12f76df5bc1a2439dbe4955fcd4b928ce64f1003660019259114238cbbf429045e89f711b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xe354bD6eb9eC0fEF07DcdF0961f5FF7E425Ab32d",
+    "stakingReward": "3592052527212035237472",
+    "feeReward": "1767379885602527684",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x9503eec06d7da6db825a76d9ccd2c86a91ed1e214a50d6e4fb514a783152ae756befb0d337cd8605a31230ecfa46a1404836a87df9447c29ca0703ba438db8321b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x68DD6E0e00FD5aE99bb5418B6fBF2F8982387a8D",
+    "stakingReward": "1095429723217309175",
+    "feeReward": "538978883030998",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x7c847334cc900a6b1f9fe09f72a50c18d45d43dd93d64661e118f2d001b2c2097370f7a47630b0cade9bfb844752a803a6939dfe34bf63a838b9b2a0fd1433ae1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x38Ee61e94aA78A5d8C2CFE919718d9eBE44C1FBb",
+    "stakingReward": "692171194580443299",
+    "feeReward": "340565578433908",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x812c7444e1a4a46726eed2f117636b26d4f1d50fedef96e33fc745c13eafe49355c4b2825dfc1e2f652a50a55f5f40414046ba4a60e58ed443921eadf5d341f01b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2cAFe9CBA9da5a49E3FF28eB63958c2583CD552A",
+    "stakingReward": "279642609085111243342",
+    "feeReward": "137591173489335252",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x82dae4107f64e100915bf334f8ac87e6d1598d5d5eba8ebe498d07be6438933238ba856c41f33496b5be6426b27afbeaeb5c39b7726ead60f8823f4d109b3b3e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x5d8fF2274FE11B3C6a05A2EdCc3F59Dc8c47d4e7",
+    "stakingReward": "1745333525059319645992",
+    "feeReward": "858747844718115932",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x1e20c423bca6d20f272ca4acb1797c1bbabe0fb93b728eefcfc02a392c0353736a3edd20ffac22c8f6e1ce7560a37a7e6d96b09c87463ad4db1a02aea7680b731b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xfa32a93b6d1CF68F8B231D2a36a3a207080a4d2f",
+    "stakingReward": "2151773487750499994459",
+    "feeReward": "1058726494619142679",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x1b0b250166bf05aff8b0564cd1f208d1f4f630369538144b78ace23b72b8ee8e78a2c33213491d33ed406d0ed06e5367f9852a2d86e1de69baccbb383534383a1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2A9b6f644B4632F4055129Ae062ac6bF4A739795",
+    "stakingReward": "123069674923894854382",
+    "feeReward": "60553365058097913",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x2436dd95b78996fc2884ac6dac52e677d1ecb88ca5f3af079c630fd287e2a6c2534c2e0469ce49a3f4c4e535fe4b5a4efe4687710184100ca04c562cbbc23fdb1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x15759058D3c7A21D28f2090081E2F4e1ae68EeE9",
+    "stakingReward": "8912941623819491120",
+    "feeReward": "4385390700206272",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb16df0f2fc5d4ceb8f05bc1ae7076d69cdb1571208fb72e755eb376dec93dd7210accdf0bd1fbcceef54505e7a35e2c2a9f5184a85a5c52492d07881b8346ec51c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x04C877efcD7E0a9676Acf6865EFfA1C59F186ebF",
+    "stakingReward": "125876463352579907383",
+    "feeReward": "61934375322958960",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3db8e7890508a5f04c122836cca0118742f8c203145f4fe962ceef52842d802d7e0ca1fae9ced967a3854767ccbd6e61cf96cb7db178d981ef7273761ea005531c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x9aEC9670dfcd9A86a54F41Dc1a05f768858457f5",
+    "stakingReward": "7720925695456742506485",
+    "feeReward": "3798888983111035600",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb12d1580cd4adefa924fe8a6ca33c811c91b14b63f0950341186a47850a6f53b367193086d51a89518bcdea0326e67bd59de53adc3c660e10ad337d9e4a3bac91c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2F3B8dB075F0Ef0176F5319A552C1115D731f779",
+    "stakingReward": "63327189106774030084",
+    "feeReward": "31158564467298840",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xd0f04efaeda4492d3d9df925bb0fefb2b2662f5b89f770b8d12664d098269a04719ec2d983ce68951586ea7e2a844fba1fd2fcafab7a9688a1e0e28153479cb81c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xFE4161FEf79ecBD9948039BBE96AA68bF6A5C64F",
+    "stakingReward": "5786393072738398410548",
+    "feeReward": "2847050439678599450",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x2d5b1c4deae6997851f6b68076cac62ca310c2f9686dbf68d2db22732d9c109c3c54f4e8c69cafeded5883ce8dea759e01dfe2873cd2cc4e90e7a319d94eb5271b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDC718FDd9809b1D3cC4728Bd733845104d70619A",
+    "stakingReward": "1287053249569279876754",
+    "feeReward": "633262461435559465",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x71569d02ad4c20f9ce0bfd67b416b44b62569666f67e3b3a3390fb7ecc9799282294938ba3020fef905cf66efc8a438f09d14d1afb12b7ab90233589283865af1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDeE3f97Cd548aB3C427592139A1045508038b38A",
+    "stakingReward": "53008700367684446943",
+    "feeReward": "26081609353438774",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5e8ce2030bf69b01ebfd72d512915e5889da0f0704bc614e4e7b8d37c0eb61581e09d99904c72964eff75491d0bf3a8e9789e7033913c24b6d0a1813c8c301031b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x04605d23268bceBaf9642441732480a30885DD79",
+    "stakingReward": "168535825434184740356",
+    "feeReward": "82923850812110973",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xab8dd913f4deb95c99ca0f7059bdba0773ab034b7843ce4fb79b163882cb128c161dffe1004757dc6367f68b8c86b88449a5a8f8ebce96dfd8e0fb52823bc16a1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x0617a09a1F1D091F51e296738D452e8A42aBF475",
+    "stakingReward": "44579907602662846088",
+    "feeReward": "21934432027951979",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb71fa766403481d54e587563dc62d82e0b49ebe3139e4a462272ff83ab65f1a7720591d5932154f284a11b17e049db12cb1067f2f0a323ace75cc08e64e051e61c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x56D5dac8CB46Bb415858D0E4eDB485Ab16a08a10",
+    "stakingReward": "5742409428639823961903",
+    "feeReward": "2825409384241234980",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x1b7760efe57b83713aa240677022eed7a4a6fd24fa689686d116ac30bd36f8820d41152286825747900db007d4e69c4bd01805a1120573de74a2bcd7ac214ad61c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xF075f34bd5A8470959048be16c7cB47a5c77C9eb",
+    "stakingReward": "43018707901564279121",
+    "feeReward": "21166282640317089",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xdec98b16c8a90c068e4078d61f493eec934b4134296dcadf1db1cbb6eed041ee2f0e2b6531e81237cbeb34b798c95f7ad7766f6fff4ab3a1c911155620b3b7941c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x07003665d8cD3d7cddD4e2E0C3be5aab7328B66F",
+    "stakingReward": "209797572215453340862",
+    "feeReward": "103225664539383972",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xebb6521132b759215227b492e9e083b423f3a6548e0961b953eab72aee95944a35ba375c3dafb828b7c102263dc344d309b1b32d8473d983faed38fb035d263c1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x959ED569f422AdcdB662A7e74e2EedBc860C9649",
+    "stakingReward": "1801472537970136293998",
+    "feeReward": "886369646310523759",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xafd110eae6ce68f3ccaedffcfee2c190f53ca1b2b056e88727e101e42078b1d805a6d0b7fa6a8c02a380835e4eb61f791b13021fd8472441368d16c56e3e59db1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x600A9650C7dB11d5e4d3fb87fF4d13b6f0d44E89",
+    "stakingReward": "724581558799647199",
+    "feeReward": "356512290062463",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xbcafa33202a24ac119d5d46ab46878ca96d92746dd8c3d762bff5917494457137a6957779cdfe7af49bf216e054c65aaddabcb8967bd57b3d87307ce63c330c81c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x02aB498e6C6Fe3cDD7fccffc378eecbD37F7598d",
+    "stakingReward": "46138011927993098260",
+    "feeReward": "22701058413116873",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4749a19995020d8fa858c5a309cf469c75dcca775e06686011c26aee1e14eb02528e2bcb7f97529641f3adc8934e8290653b2fe37ae548782f1556a134a5db211b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x66AF4325437AA3498A9468fa2E07557d5E0F40Ed",
+    "stakingReward": "51893721661326685415",
+    "feeReward": "25533011880667042",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x87714ee1299939735bd69cb771f04de1dfd36f1a62933f08d8cb1f7e96ac231d3f3dd86cc0884c5d7f6f411a841f16c7f9e838a4ec20780d900a905e82d0ae321c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x71F5b4027261eC8d046839ae4269EA1455A0BFeE",
+    "stakingReward": "5855233589754451897",
+    "feeReward": "2880921699680212",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xe2e61f8c26079224e3c35016fdec971304ba8a8339c8b8fa3557058a9787a61b2884ebea8017abd5e6904ec4cf178fd4b3e2c63a704721f82ddbadb7c880ea611c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x8753EF2EE4C05303F0CCBE8aAC7f02D3cbf1f196",
+    "stakingReward": "1078523764162220503025",
+    "feeReward": "530660727393119785",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x166ef9f4fbd737b757eeef3f5c4c9a842118e24dbbaada347ae06771c4098ea43c83a13b015190c2afcb67802a5a81914a0419e422993885acfb9aefac6762151b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2e8a998d0Aaa83F444f1B1dAd01ae803cE6775bD",
+    "stakingReward": "858294464855112906078",
+    "feeReward": "422302391631860782",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf5318984bbbc7e0aca027725a6d6560f3b7f42cc5dc8146c3e61b20ffb72e0ea3ca23e299b4db5cb5f205fc4375d5b87d857ff6f3c8da5e968275d0bf75f2d9b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x69725346044aefB4df81079CA9Ba742416576D19",
+    "stakingReward": "859257488644088218096",
+    "feeReward": "422776223476216557",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb880647d2da09bad09f3ba82f555a43d8033d77a247918a04567a8fa5767a87271f5e11c4fd7f543695bcc831baaf877117147f94292c526fc723404d6c5c2ee1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7dB94120c87457a191Ac0755E4d90AB7438Bd9cB",
+    "stakingReward": "29574114272563799816",
+    "feeReward": "14551205558346369",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xbf4adbf1cf9a8eacfbe7d35ac9000a96af95a016cd7dac41ffb6c158618f04c100f13cfb5bbeac85e4f5683b56771d978591a927f3ce803b159763e53ca3bb241c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x8CbcD02Fc96353Ed0bE3f66A7aD9F42d6A990e61",
+    "stakingReward": "165711189794957300104",
+    "feeReward": "81534059272285884",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x680cf6e6b6466b1706471d48e50afa5303269c484e00c0fb7c0aaefc8eee34b6752485ab9a6b0a1cff7c9baa864aa1eed3c812692e966ce0a2f067801124d0df1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x072DF52F5895098DDCDed915D3e8c83Bff61104A",
+    "stakingReward": "34268568432887271981",
+    "feeReward": "16860994681413124",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x067c3418e2f6e76929c04789dc0b00a4971ccb97c9fe4e6e2d42d1f64f262525109a67bdeee37367e1dad350971ba1104111a40937e1bebfba0ac5b27f30ecaa1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x0263d41D0660De60584077e1b3fDA40Fe35245ad",
+    "stakingReward": "27436391412340492434",
+    "feeReward": "13499392324678598",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x184dcff9eb559a15077b1bd398814030e2912e1ea165697cb195f64041fc7a054017975e62fce062f473a5517b53d7d71be294fcfab7bca0a5a812c000a6e1cc1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x8Bc030676110dad05F02c3eF5d2525282Da25682",
+    "stakingReward": "2017646177093638244604",
+    "feeReward": "992732495597951317",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf113d481603bb4f096033af3d4d2c238929a24830aaf208854bcf71af78d1adb69710e87ebedea3c29ab373a2f60eff3a47a24f2f031376f8ffac9ea9eb456d71b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x274849deFC27652Ef5fE900149114Fc54AD24B07",
+    "stakingReward": "62964604058222590741",
+    "feeReward": "30980163534468549",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x992b4559f09151b936dfec6e0052534169e28166f15ed0baac10c1d5dd388597602d80db7e10557158cd2c7122d17159514af6cca42c5a8a9decf18821942e521c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x9ca656c031Ba0790A6A81C6b21343290B6C0EAfe",
+    "stakingReward": "583609209656734778990",
+    "feeReward": "287150360521110362",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xfa62bd09923a4998baeff02b62df11d589d8b73dc5512e351d887aefc003757c65d95d8a24294d9b3741bd97b5ff0ea6f017aeeb3313f373164a6003ef6918921b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xD070EFf84D78bc967bC3372d7a3ca50Bc6aCD6cA",
+    "stakingReward": "89910990412782121261",
+    "feeReward": "44238461087730278",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xd40655a88f4f254f6a0708a5a94720a7d6b706fef27bbb15f47c4fe8127a59d00d88b758da4f454ff3799feee0083c145ff90ff9a140a8e5a43d44d3a45cfcfe1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x854750ff82d055EBb25cD30b7B5b6AEBA7b3Fc2E",
+    "stakingReward": "992014518037080307842",
+    "feeReward": "488096009766654528",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xe088bbcb33079148d4f651915fb020b3dfbaffb9117492856a7cbc0262346562210d23c050e42c02380d997f974e5175242ea2881a91f6a390138865648c5f261b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2777dE217fe86ea1a543Dd28A459cfF114956225",
+    "stakingReward": "11592620831117798724",
+    "feeReward": "5703860041889926",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0657ae98a5b16f12fcf0441477437a399dd11f37bb4c767f9c7887c40196a0ba024afed524e8c4f05f440b3b50b558c50da8dd1ad0c2b9a9a5736abdbe1fd2571b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x6CDE6e4CB5F31d63842e1bE36aF34217F96BE2Ca",
+    "stakingReward": "227125419322897437643",
+    "feeReward": "111751399674516332",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5ca9272538a642c2df118cbf986172555ee65447b34e098190778cae57076dcb66b11cdda058a1801a0e406097f62a69f35205ed5d5bfb4669f4ab4ed626de771b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x518AA124c4e8823F14e00e2837d8AF94037AFf72",
+    "stakingReward": "27272151099315476118",
+    "feeReward": "13418581973647687",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3496e2bbb4946d0789315724b0d41355920cd8d21aeefe49f0ba5fc71e0e94991f1882e7ac2040a70e138b14fb391845d9b1bb327237fd265f75e6fb43be49041c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x0c707b366664301107a28E0f7b457762180Cb7BC",
+    "stakingReward": "22060973299044899147",
+    "feeReward": "10854551866981883",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa22884fa918bdbd587b6a7a687385f23a360015bc500eea6c515fe3c78cd959a066ddeb20f632e59ad579580a1d7329dfaffbb556ac32b0221d1f0a7dcd6f3121c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x05173AFFE3022E76896149D673c07976ac0230d8",
+    "stakingReward": "12168580813365823018",
+    "feeReward": "5987246790782270",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x383e528f8b128aa9cf49d62dab7a081605691fa7f52083471ae92c8bab4f0e4b2ea297c11136f0b2d09ef44421030b72006802bad9043356196d6cec3c80849a1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x09390160BD9eb2c9D52ed4c6FF39617f53158230",
+    "stakingReward": "3859418024393312279",
+    "feeReward": "1898930412284014",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0a0b842e4a30803c01099251a2a42eda86316cd0cee5e061d206538aae556f1247f2569a9dd613b7299bc9132cfd4fc797a0a7e48976d28be485de5a24f31c1b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7b695fD56b7b3125a746873dc171C70c0ad92aA9",
+    "stakingReward": "3649225548827822336",
+    "feeReward": "1795510445397344",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x77102903d2bcca87465841b273faabd5f64261d09fbf29a0625b7c0a6179d19a2c0a29f3d2be45ce302b19ee16f3251de3ffeffe97a72dc11a3af1cd426516f71c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xB2938Bd4c7854C0709c2FefefE1284fb24133d19",
+    "stakingReward": "262644749398888204",
+    "feeReward": "129227800437259",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc8d91e0c3de410222a8dbd6fae81840b75746b9f85be8fc29cda97c77ab62e634016510f76cf8a04c8459908d079c56f99ee3e42da091341e8db8c04aca41d8b1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xC53aB4004109ca7d06648946F69d31ddaF4ED236",
+    "stakingReward": "219759329270627439",
+    "feeReward": "108127098722541",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc9121b6187635f89595b4fcdd22d72e8d841e72a705965d11fb766851398a68c6385c5d4a3bce7946a6c756ae7e9d7abf47b423eb7d6cca2f93cf43a6f61de3f1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x95FbaF8aef1161A03f73C1c653B8d8591787DC31",
+    "stakingReward": "3789914919420095555",
+    "feeReward": "1864733142398341",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x7df1bbecb817084c0f5bf392cf76763d4cad9fa8948305613cc1e78b101b2f7a4cd884a8fb33afb0c605581f884f5eec9e366a10cc109cb72d7406eeb8bdba8d1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xddA35a6b42d74146B3D93C3718666a774a0faFD3",
+    "stakingReward": "30901715025058877873",
+    "feeReward": "15204418407628313",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xf9eb56bf8c152e031a41966c39caa713f3dd99101ab39ffd124c84e19f148ba720565dc4cb3b2ca5ea2ad67d45b5ecf93396f791c4ee046959c7c64c6367426d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x63Dbf00C99EaD0635FF5aDf2fd2f1F7F2141fc7C",
+    "stakingReward": "116851348160267006936",
+    "feeReward": "57493792415191796",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x5912ca0c408137f5d8bc730b8fe626b792f1b4dcef51235926f0f6c0b29311b6754f122abf2dd96223908c4abca9980774e378dbf523bd3b67de721c8e2e94fb1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2b429f9a9E400dB4C7dA11173A0CfA31791BeedC",
+    "stakingReward": "92478812609649188399",
+    "feeReward": "45501893976354809",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x9106d81dccef3bf4469885e29fe7c7c43fe9130ddda3cf981c6b97ec6c96d1417287d61be18f9d08a7dba71c7c1e181acb235eb5619b344e016e06af9f304af21c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xe0DdEE528856195aF906eB5c7645dDCb6dbbe1C0",
+    "stakingReward": "324758981536755899661",
+    "feeReward": "159789559670585525",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x0ef978549ed03da44993e5fe8102236ba4b3ac883ca628530d42dd529317ab53019180501fc9fd992881781e592f1b8a649e84354b8d36a92aabbd21a836ed4a1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7a0584EAFd56e980ef74DD053802B832EabdBBFf",
+    "stakingReward": "33580764089500787",
+    "feeReward": "16522577703230",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x854b9963e8acbfe8eb60691024d57a1d1c8ef3736a97a5f4f1daf94c27555d587e0e42635cbd559869fd264aee37ab0e7f38c037af1b017677c982f17530e8101b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x7a27dB8aa377cb1d0aA58868d236d452F59C1D00",
+    "stakingReward": "20658783543193772906",
+    "feeReward": "10164639358321368",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x579d4a0402aeb6c0cb0b0ef754164fc874c01408b9745d45d47b569fecd5c75c051fc270b3a695a08ccd7dfd471acbdd9877dab822a1dfc95075639a6d97b6e61b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xEE57D8989170370a6f88B2f99395b81204117bf2",
+    "stakingReward": "50063728023713461558",
+    "feeReward": "24632609138391860",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x3369bab52bd8240c09d8cd16ac67be62523cf7c72c750127f7a20e0385c014ee4e26d15028fb14ca09e60a41a690308d89eb76b375f61266f382b74789fd0d4e1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x6a6388c71BFDAbd129cbee5763510Ea1bB96597b",
+    "stakingReward": "447882135638066452370",
+    "feeReward": "220369237824537979",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x50ac838485d14f436b22d4ae1e8b79fce627fe2aabf137ad264df0165177ec9021ff42cd1fc9a2cbf369a94532b83a497aa27281297d8582fc8473758959741d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x492497982d3376ba5C9523611fFFe1dcD3e1134e",
+    "stakingReward": "54391952360580260939",
+    "feeReward": "26762204008011140",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xa2f291df4842aff89eb3215fcf2da26e525617ee2139a64eee83d106a87f47fe7d186ef2e54d23dd478b91b9d78fa6d54f70aa56da0829ec15b73670bad1c1a11c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x6B7a803BB85C7D1F67470C50358d11902d3169e0",
+    "stakingReward": "126140782795928533887",
+    "feeReward": "62064427114799153",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x01a3bafc348b9ecd366b5dbbbca3b9564a27a9770464a9f151d30a11bced06143e5f31c5fa6b7cff01aa43c42995717a5c92398d4da15df06d098e76207d978c1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xa18451aFD358C4798c2E4A2A1D5951C9Ac1A4642",
+    "stakingReward": "25855181514144392926",
+    "feeReward": "12721397418474810",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x223d6f388f7975e525938060cc9df0a50738cdd2c9b009155983ed188799547e17c4cbe015f3dd3afff7eee3947be5ca9219be7c84e1d547a81286691c4aab501b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xd982E6579A0B2f7105AF3213a9aEcE151e3d40f0",
+    "stakingReward": "33408620340187113858",
+    "feeReward": "16437878663429904",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x260ed4c87742e73d2386f3b237414a3c5805e92f5158b88b06b17875adf1e50723082bfdfeb10751fbb50b2cbaf7b2e5419e05e07c9dc12d8cdf5c0726a76b7b1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xf32c45669115Ee9c99d441f4F8D532afB717AC02",
+    "stakingReward": "4468307860040669792",
+    "feeReward": "2198519474503606",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x9e5d73429989a6af6bfaa5db94c5ec88710997f49256b27857fc19b1689846a571cee26e26e43da3008215b29053cafd76d9f190c041209b3c254ee8a6b4fa8b1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x1eB2d856C0C96A58F44676Cd7ae26035Dab69605",
+    "stakingReward": "23693342003135881318",
+    "feeReward": "11657718188087067",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xcd91218a794fd4d29e32bddddb5beb665d3b132cdb75398dcec460916ace767c434d00bde0f77407ebcd7e6025d497f9342aa5e689edf5885badaf96899a376e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x03b98cceCb19552cDc8846fcE2763e4442bd8c58",
+    "stakingReward": "30364281317865280674",
+    "feeReward": "14939987551803388",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xea047972c1d237a14008a7d0fbf45d826891e7010d8892cd5c2f516c2fb2eabf3a89484aebaf17eff456ea9535537b87542421967ab7408d68d685355597f0f21b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x49Bb21634629470b87aa6d4a2D9dA7085Ffe801B",
+    "stakingReward": "16427633104455976083",
+    "feeReward": "8082807279939272",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x39e244b9177977a097628d900a3013a498033a68c5bda067b766e625db908d261a78b2d2aa0cec909d1e44c6bbf49ed4d0fb497209354af0c1d5d872dcb52c7d1b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x00085d4fee6C953D00f4456Fb407B6974435Eb07",
+    "stakingReward": "6915760185111835787",
+    "feeReward": "3402727368885152",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x4967b62cd002b9b3865774b319d2e25f4deaab63879ba617b13b8ed8914e564451d1100372e297d115bec45892521f270f687baf817d7550690a6160272434d11b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x91A53fA0E48120B9BabC2623Ca9DC536E705BF93",
+    "stakingReward": "5131303372090570199",
+    "feeReward": "2524729885783756",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xb38fef887a540590066b79a20f02299db7315751482f1cc8d20f2a1b160c9525565844ca45f0d7cd1f167715991357faf2032d78c2df399ce4ce80623e7206691b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x2046d8bF125c673b029617750FfE160f0B0C51BB",
+    "stakingReward": "25951464561888831920",
+    "feeReward": "12768771091498491",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x9539493c7e7597d4f8401c4cb2478840301fed952f369be590c7f8498b4be96a4a3dabcc204dd8f7483d5b5db0f294bde0138ec68059d8361a3a6434476bf83e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xDc1E5E4b8adAcB60Dc1726A66885cb3343eb654d",
+    "stakingReward": "232638059279863994779",
+    "feeReward": "114463756719048037",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xd05f6e3fc5270d3ab4dc00b76feaa0a8fea3f454686e80dbe2ff9830718c3e740d238d8d56f2dc19fbff0ab39109f4d55cb3985e5b78e443da25be19089b87d11b"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xBB67987C040619842B0F8B0257BDE63BE842b27b",
+    "stakingReward": "16063661337861945262",
+    "feeReward": "7903724047071075",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x1f2ac476fb344da68150b4e79c48f5af3ccbd4c2adb6e11670184c998fa51bf53a54fb62160e84ef8f176dca512d5e20bdd72e0e2b6aa15b7fc268bb1e3842a61c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xd1fbc4345edd8EC70c3e8327AEBE8293c6F7C759",
+    "stakingReward": "4179340196985130994",
+    "feeReward": "2056340140709086",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x02125a693bbc471830c15a609253edada2b8e4225fe8ac6fa80eda6266c4dc0361e51b81d20b4b6bec2acb4ca37ef4af80fa0a1d989187a454b808d9bd73ad0d1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xAcBA8E475f13610E2213677679E0169E36B19c51",
+    "stakingReward": "49986300561299764574",
+    "feeReward": "24594512886005088",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xbfb02618633cca1dae82494cea433b175da0b52970cdf582cff8fb895bed295d32faa359546c87ef9485e0d3745264d65bdbe764724e240fc59c81e52c08c26e1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x3AB830a237F80B1AE369ABa4d50AeD808feB61B4",
+    "stakingReward": "306969480400914933",
+    "feeReward": "151036679181170",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x6a13c890c4e202717338f2eb4528a9b6b126319a028ed839f7920db0a08c1e8e18330d5045188fd82e0e99742227aff68d27e602ab3647a1c22e044a479ec9bf1c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0x980444434c02Da0F92F6D0BdEC3b08E95091ebaa",
+    "stakingReward": "825686582842183298",
+    "feeReward": "406258496297601",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0x6ce0e714caf875e173e43105575348905c59ac0b87b72173715724333ab9010b4d8eeb63f85893e3ee14948cd5aba7245359e7cc34567b1b8762f20e73ec76f81c"
+      }
+    ]
+  },
+  {
+    "chainId": 1284,
+    "periodId": 6,
+    "recipient": "0xc05A8e58bCe28Fd4c5934B045bCD5Bb3c7D0abA2",
+    "stakingReward": "21934035219818059572",
+    "feeReward": "10792095150037195",
+    "signatures": [
+      {
+        "signer": "0xa6EDd88f87C11Aab025717aA1AaA893E9A115f21",
+        "signature": "0xc232d1d21e372e9cfe918349fa2d7c5916fee80ffad3c1e9b35dbf2ca929b62219b2f3fbdd76a4ac64a11224af6d55e9c7a1069321ea811e7539c7ba7bd7567d1b"
+      }
+    ]
+  }
+]
